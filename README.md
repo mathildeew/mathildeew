@@ -1,4 +1,4 @@
-### Mathilde Elinor
+# Mathilde Elinor
 
 - Front-end development student at Noroff School of Technology and Digital Media
 - Bachelor in Optometry
