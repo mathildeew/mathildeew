@@ -1,6 +1,6 @@
 ### Mathilde Elinor
 
-- ✉️ [hei@mathildeelinor.no](hei@mathildeelinog.no)
+- ✉️ [hei@mathildeelinor.no](mailto:hei@mathildeelinog.no)
 - 🖥 [mathildeelinor.no](https://www.mathildeelinor.no)
 
 <!--
