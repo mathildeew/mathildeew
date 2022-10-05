@@ -1,6 +1,9 @@
 ### Mathilde Elinor
 
-- ✉️ [hei@mathildeelinor.no](mailto:hei@mathildeelinog.no)
+- Front-end development student at Noroff School of Technology and Digital Media
+- Bachelor in Optometry
+
+- ✉️ [hei@mathildeelinor.no](mailto:hei@mathildeelinor.no)
 - 🖥 [mathildeelinor.no](https://www.mathildeelinor.no)
 
 <!--
