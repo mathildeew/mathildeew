@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-[My portfolio]
-
-🖥 [www.mathildeelinor.no] (https://mathildeelinor.no)
+- 🖥 [www.mathildeelinor.no] (https://mathildeelinor.no)
 
 <!--
 **mathildeew/mathildeew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
