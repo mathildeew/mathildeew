@@ -1,7 +1,7 @@
 ### Mathilde Elinor
 
 - ✉️ [hei@mathildeelinor.no](hei@mathildeelinog.no)
-- 🖥 [mathildeelinor.no](https//mathildeelinor.no)
+- 🖥 [mathildeelinor.no](https//www.mathildeelinor.no)
 
 <!--
 **mathildeew/mathildeew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
