@@ -3,7 +3,7 @@
 📍 Oslo
 
 - Currently studying front-end development at Noroff School of Technology and Digital Media.
-- Bachelor in Optometry with european diplopa, and working as an optometrist.
+- Bachelor in Optometry with european diploma, and working as an optometrist.
 
 ### Contact
 
