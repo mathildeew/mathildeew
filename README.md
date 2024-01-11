@@ -1,9 +1,6 @@
-## Hi 🙌
+## Hei 🙌
 
-I am Mathilde Elinor.
-
-- Currently studying front-end development at Noroff School of Technology and Digital Media.
-- Bachelor in Optometry with european diploma and working as an optometrist.
+Jeg er Mathilde Elinor.
 
 ### Contact
 
